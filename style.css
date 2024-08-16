@@ -202,7 +202,7 @@ footer {
     height: 224px;
     background-color: #f6f7ff;
     justify-content: space-between;
-    column-gap: 60px;
+    column-gap:30px;
 }
 
 .adress {
@@ -298,3 +298,12 @@ footer {
     margin-bottom: 148px;
     margin-top: 60px;
 }
+
+
+/* Медіа-запит для екранів менше ніж 768px */
+@media (max-width: 768px) {
+    body {
+      background-color: lightcoral;
+      font-size: 14px;
+    }
+  }
