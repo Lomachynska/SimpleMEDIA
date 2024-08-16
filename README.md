@@ -1,2 +1,2 @@
-# SimpleMEDIA
-SimpleMEDIA
+# -Simple-Site-
+"Simple Site"
